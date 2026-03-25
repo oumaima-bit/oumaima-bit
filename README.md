@@ -2,13 +2,13 @@
 <!-- ║                     TOP BANNER                          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2E2C&height=220&section=header&text=Oumaima%20Zerbouhi&fontSize=50&fontColor=1DE9B6&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%7C%20DevOps&descAlignY=58&descColor=80FFE8&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=537B01&height=220&section=header&text=Oumaima%20Zerbouhi&fontSize=50&fontColor=304C02&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%7C%20DevOps&descAlignY=58&descColor=1a2e00&animation=twinkling" width="100%"/>
 
 <!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=1DE9B6&background=0A2E2C00&center=true&vCenter=true&width=700&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+Oumaima+Zerbouhi;Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+CI%2FCD+%E2%9A%99%EF%B8%8F;Building+Clean+%26+Scalable+Systems+%F0%9F%92%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=304C02&background=537B0100&center=true&vCenter=true&width=700&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+Oumaima+Zerbouhi;Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+CI%2FCD+%E2%9A%99%EF%B8%8F;Building+Clean+%26+Scalable+Systems+%F0%9F%92%9A)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A2E2C&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=537B01&height=4&section=header" width="100%"/>
 
 ---
 
@@ -51,13 +51,13 @@ const oumaima = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oumaima-zerbouhi-6a894a280" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A2E2C?style=for-the-badge&logo=linkedin&logoColor=1DE9B6"/>
+    <img src="https://img.shields.io/badge/LinkedIn-537B01?style=for-the-badge&logo=linkedin&logoColor=304C02"/>
   </a>&nbsp;
   <a href="mailto:zerbouhi.oumaima@etu.uae.ac.ma">
-    <img src="https://img.shields.io/badge/Gmail-0A2E2C?style=for-the-badge&logo=gmail&logoColor=1DE9B6"/>
+    <img src="https://img.shields.io/badge/Gmail-537B01?style=for-the-badge&logo=gmail&logoColor=304C02"/>
   </a>&nbsp;
   <a href="https://github.com/oumaima-bit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0A2E2C?style=for-the-badge&logo=github&logoColor=1DE9B6"/>
+    <img src="https://img.shields.io/badge/GitHub-537B01?style=for-the-badge&logo=github&logoColor=304C02"/>
   </a>
 </p>
 
@@ -70,9 +70,9 @@ const oumaima = {
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumaima-bit&show_icons=true&theme=merko&border_color=1DE9B6&title_color=1DE9B6&icon_color=1DE9B6&bg_color=0A2E2C&hide_border=false&count_private=true" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oumaima-bit&show_icons=true&theme=merko&border_color=304C02&title_color=304C02&icon_color=304C02&bg_color=537B01&hide_border=false&count_private=true" height="175" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=oumaima-bit&theme=merko&background=0A2E2C&border=1DE9B6&ring=1DE9B6&fire=00E676&currStreakLabel=1DE9B6&sideLabels=1DE9B6&dates=80FFE8" height="175" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=oumaima-bit&theme=merko&background=537B01&border=304C02&ring=304C02&fire=1a2e00&currStreakLabel=304C02&sideLabels=304C02&dates=1a2e00" height="175" alt="Streak Stats"/>
 </p>
 
 ---
@@ -153,4 +153,4 @@ const oumaima = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2E2C&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=537B01&height=100&section=footer" width="100%"/>
