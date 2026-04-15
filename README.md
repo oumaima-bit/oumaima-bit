@@ -32,7 +32,7 @@
 const oumaima = {
   location    : "Morocco 🇲🇦",
   role        : "Software Engineering Student",
-  focus       : ["Full-Stack Web Development", "DevOps", "IoT"],
+  focus       : ["Full-Stack Web Development", "DevOps"],
   currentWork : "Application Mobile marketplace place des services locaux",
   experience  : ["Java / JEE", ".NET", "PHP / Laravel", "React", "Flutter/Dart"],
   devOps      : ["Docker 🐳", "CI/CD Pipelines", "GitHub Actions"],
